@@ -1,3 +1,7 @@
+<img width="420" height="98" alt="1000056990" src="https://github.com/user-attachments/assets/974d08a9-8f86-445c-b1c6-91ec17421f7d" />
+
+
+
 # Hot Wheels Hunt Book
 
 A Hot Wheels collection tracker — MIT licensed, open source.
@@ -58,7 +62,22 @@ Defaults: database `data/hunt-book.db`, blobs `data/blobs/`, port `3000`.
 
 ## Features
 
-- **Catalog & garage** — 5,188 cars (mainline, Fantasy, Treasure Hunts,
+- **Catalog & garage**
+  
+ <img width="640" height="334" alt="1000056991" src="https://github.com/user-attachments/assets/e5b38dc4-6bc9-4d60-b28d-ebe17e9a2e4d" />
+
+**157 Cars plus DLC**
+
+ <img width="640" height="323" alt="1000056881" src="https://github.com/user-attachments/assets/6df8adaa-d006-4358-baef-4e93dc4ae175" />
+
+**199 Cars plus DLC**
+
+<img width="480" height="362" alt="1000056993" src="https://github.com/user-attachments/assets/21bfbf07-5858-4eb4-854f-f621c669242e" /> 
+
+**150+ Cars plus DLC**
+
+
+- — 5,188 cars (mainline, Fantasy, Treasure Hunts,
   Super Treasure Hunts, Unleashed 1 / Unleashed 2 / Infinite Rush game
   rosters incl. DLC). Mark owned / Treasure Hunt / Super Treasure Hunt
   (photo required, as in the original), duplicates, notes, favorites,
