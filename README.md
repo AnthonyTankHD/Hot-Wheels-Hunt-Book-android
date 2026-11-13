@@ -1,6 +1,3 @@
-<img width="420" height="98" alt="1000056990" src="https://github.com/user-attachments/assets/af4a2b0f-6601-475f-b43f-a553609f7e3c" />
-
-
 # Hot Wheels Hunt Book
 
 A Hot Wheels collection tracker — MIT licensed, open source.

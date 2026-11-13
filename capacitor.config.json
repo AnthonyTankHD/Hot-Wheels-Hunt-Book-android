@@ -1,0 +1,8 @@
+{
+  "appId": "com.huntbook.hotwheels",
+  "appName": "Hot Wheels Hunt Book",
+  "webDir": "client/dist-android",
+  "server": {
+    "androidScheme": "https"
+  }
+}

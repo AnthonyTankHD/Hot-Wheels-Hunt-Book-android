@@ -1,35 +1,33 @@
-# Gradle files
-.gradle/
-build/
-.kotlin/
+# Dependencies
+node_modules/
+.bun-cache/
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Build output
+client/dist/
+server/dist/
+.tsbuildinfo
+.tsbuildinfo.client
+.tsbuildinfo.server
+client/.tsbuildinfo.client
+server/.tsbuildinfo.server
 
-# Log/OS Files
-*.log
+# Local data (your collection, photos, music) — never commit this
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
+# Optional supplied files (personal backup / songs) — never commit these
+supplied/
+!supplied/.gitkeep
 
-# IntelliJ
-*.iml
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
 
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+# Android build
+android/
+client/dist-android/
